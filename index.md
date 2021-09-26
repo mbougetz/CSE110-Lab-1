@@ -27,7 +27,8 @@ technology is something that I've become increasingly interested in and I've bee
 to gain a better understanding, both as a programmer and as a musician.
 
 #### Favorite Musicians
-![Igorrr looking normal as usual](https://www.metalblade.com/us/mainpics/igorrr.jpg)
+![Igorrr looking normal as usual](https://www.metalblade.com/us/mainpics/igorrr.jpg)  
+
 Some of my current favorite artists in no particular order are:
 - Igorrr
 - Iglooghost
@@ -39,7 +40,8 @@ Some of my current favorite artists in no particular order are:
 - Porter Robinson
 
 #### Favorite Authors
-![The first book in The Kingkiller Chronicles](https://www.patrickrothfuss.com/images/page/cover-hc-name-wind-10th_277.png)
+![The first book in The Kingkiller Chronicles](https://www.patrickrothfuss.com/images/page/cover-hc-name-wind-10th_277.png)  
+
 If I were forced to rank my favorite authors I would probably do so thusly:
 1. Patrick Rothfuss
 2. Brandon Sanderson
