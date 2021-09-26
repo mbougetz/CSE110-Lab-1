@@ -2,9 +2,12 @@
 My name is **Milo Bougetz-Aulbach**; I'm a fourth year Math-CS major with a minor in music.
 
 ### Table of Contents
-[CSE-Related Info](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#background-in-cs)
-[Outside Interests](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#outside-interests)
-[Favorite Musicians](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#favorite-musicians)
+[CSE-Related Info](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#background-in-cs)  
+
+[Outside Interests](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#outside-interests)  
+
+[Favorite Musicians](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#favorite-musicians)  
+
 [Favorite Authors](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#favorite-authors)
 
 ## Background in CS
