@@ -1,0 +1,4 @@
+Milo Bougetz-Aulbach
+A15471802
+
+.gitignore (Already at repository root)
