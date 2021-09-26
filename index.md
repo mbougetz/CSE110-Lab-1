@@ -1,6 +1,12 @@
 # About Me
 My name is **Milo Bougetz-Aulbach**; I'm a fourth year Math-CS major with a minor in music.
 
+### Table of Contents
+[CSE-Related Info](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#background-in-cs)
+[Outside Interests](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#outside-interests)
+[Favorite Musicians](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#favorite-musicians)
+[Favorite Authors](https://github.com/mbougetz/CSE110-Lab-1/blob/Branch-2/index.md#favorite-authors)
+
 ## Background in CS
 I started programming when I was in middle school; I had just gotten heavily into Minecraft and
 was inspired to learn some Java in order to make mods, such as [this one seen here](https://www.youtube.com/watch?v=RItRg9YCVz0), which was my last and most popular. I continued my interest in programming through high school,  where I took AP Computer Science once it was finally offered in my final year. 
